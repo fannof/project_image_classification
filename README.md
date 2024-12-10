@@ -7,4 +7,4 @@
 Kendaraan adalah sebuah alat atau sarana transportasi yang digunakan untuk memindahkan orang atau barang dari satu tempat ke tempat lain. Kendaraan sendiri memiliki berbagai jenis, mulai dari kendaraan darat, air, hingga udara. Seiring dengan perkembangan zaman, kendaraan juga mengalami berbagai perkembangan teknologi yang membuatnya semakin canggih dan efisien dalam memenuhi kebutuhan transportasi manusia.
 
 ## Rumusan Masalah
-
+ 
