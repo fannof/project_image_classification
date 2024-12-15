@@ -8,6 +8,5 @@ Kendaraan adalah sebuah alat atau sarana transportasi yang digunakan untuk memin
 
 ## Rumusan Masalah
 
-
 ## Dataset
 [Transportation Dataset](https://www.kaggle.com/datasets/yst990102/multi-class-transportation-dataset)
