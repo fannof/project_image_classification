@@ -14,4 +14,4 @@ Berdasarkan latar belakang diatas, dapat disimpulkan bahwa rumusan masalahnya ad
 
 ## Dataset
 - **Sumber Dataset**: [Transportation Dataset](https://www.kaggle.com/datasets/yst990102/multi-class-transportation-dataset).  
-- **Ukuran Dataset**: Setiap kategori terdiri dari 1000 gambar data latih dan 200 gambar data uji yang dibagi menjadi 6 kelas (kapal, pesawat, mobil, truk sampah, kapal layar, sepeda). 
+- **Deskripsi**: Setiap kategori gambar kendaraan terdiri dari 1000 gambar data latih dan 200 gambar data uji yang dibagi menjadi 6 kelas (kapal, pesawat, mobil, truk sampah, kapal layar, dan sepeda). 
