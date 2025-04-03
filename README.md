@@ -27,4 +27,3 @@ Model yang digunakan dalam proyek ini adalah **Convolutional Neural Network (CNN
   - Dropout untuk mencegah overfitting dengan tingkat dropout 50% dan 30%.
 - **Optimizer**: Adam.  
 - **Loss Function**: Categorical Crossentropy yang digunakan untuk mengoptimalkan klasifikasi multi-kelas.
-- 
